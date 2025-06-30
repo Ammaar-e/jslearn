@@ -1,5 +1,4 @@
-# 🌐 Project Name
-
+# 🌐 AMRT Dev
 A brief description of your website. For example:  
 A modern, responsive website built to showcase [your company/product/portfolio/etc.].
 
@@ -24,8 +23,7 @@ To get a local copy up and running:
 
 ### Prerequisites
 
-- Node.js and npm (if using a JavaScript framework)
-- Git
+- Node.js and npm
 
 ### Installation
 
